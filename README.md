@@ -1,0 +1,1 @@
+# Core-Games-Scripting-standards
